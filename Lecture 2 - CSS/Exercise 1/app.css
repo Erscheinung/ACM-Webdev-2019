@@ -1,0 +1,22 @@
+h1 {
+	color: red;
+	border-color: purple;
+	border-width: 5px;
+	border-style: dashed;
+}
+
+h2 {
+	color: blue;
+}
+
+li {
+	color: green;
+}
+
+h3 {
+	background: rgb(255,100,80);
+}
+
+body {
+	background: pink;
+}
