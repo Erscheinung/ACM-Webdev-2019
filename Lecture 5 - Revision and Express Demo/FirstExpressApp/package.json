@@ -1,0 +1,23 @@
+{
+  "name": "firstexpressapp",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "lol",
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "lol"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lol"
+  },
+  "keywords": [
+    "lol"
+  ],
+  "author": "lola",
+  "license": "ISC"
+}
