@@ -5,7 +5,7 @@
   "main": "lol",
   "dependencies": {
     "cat-me": "^1.0.3",
-    "express": "^4.16.4"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
